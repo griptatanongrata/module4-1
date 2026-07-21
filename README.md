@@ -32,3 +32,17 @@ example: console.log(5-1) -> output = 4
 _Variables_
 
 -stores data
+-Types:
+
+1. var (not utilized anymore)
+2. let (industry standard)
+3. const (alternative to standard/locks the value at creation [unable to change])
+
+-example for utilization of variables in index.js
+
+_Equality_
+
+"==": checks the values of variables or data types
+"===": checks the values and the types of variables or data types
+"!=": checks to see if the values are not equal
+-examples shown in index.js

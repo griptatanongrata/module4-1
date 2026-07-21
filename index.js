@@ -27,3 +27,13 @@ let celcius = 10;
 let fahrenheit = celcius * 1.8 + 32;
 
 console.log(fahrenheit);
+
+//Equality Examples//
+
+let bool = "1" == 1; /*output shows true*/
+
+bool = "1" === 1; /*output shows false (types not true)*/
+
+bool = "1" != 1; /*output shows false (shows opposite of response)*/
+
+console.log(bool);
